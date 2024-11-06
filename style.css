@@ -95,7 +95,8 @@ span{
 }
 
 section{
-    padding: 110px 16px 90px;
+    min-height: 100vh;
+    padding: 10rem 15%;
 }
 
 .main{
