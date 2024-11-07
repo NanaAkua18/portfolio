@@ -104,6 +104,7 @@ section{
     display: flex;
     align-items: center;
     justify-content: flex-start;
+    text-align: center;
 }
 
 
@@ -120,7 +121,7 @@ section{
 
 .main-content p{
     font-size: var(--p-font);
-    font-weight: 300;
+    font-weight: 400;
     width: 620px;
     max-width: 100%;
     color: var(--other-color);
