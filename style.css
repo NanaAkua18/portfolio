@@ -105,7 +105,6 @@ section{
     background-color: var(--bg-color);
     display: flex;
     align-items: center;
-    justigy-content: flex-start; 
     text-align: center;
 }
 
