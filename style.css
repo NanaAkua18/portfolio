@@ -96,7 +96,7 @@ span{
 
 section{
     min-height: 100vh;
-    padding: 10rem 15%;
+    padding: 14rem 19%;
 }
 
 .main{
@@ -116,7 +116,7 @@ section{
 }
 
 .main-content h1{
-    font-size: 3.5rem;
+    font-size: var(--h1-font};
     font-weight: 800;
     margin: 20px 0px 20px;
     line-height: 1.2;
