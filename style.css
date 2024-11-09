@@ -104,6 +104,8 @@ section{
     width: 100%;
     background-color: var(--bg-color);
     display: flex;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
     text-align: center;
 }
